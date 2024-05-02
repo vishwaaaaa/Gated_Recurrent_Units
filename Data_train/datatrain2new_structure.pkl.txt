@@ -1,0 +1,3 @@
+This will the pickle data file generated using the ProcessedData and the pickledata_plottest1.py and pickledata_plottest2.py
+
+This data is used for training.
